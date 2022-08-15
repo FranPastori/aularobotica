@@ -1,3 +1,13 @@
+header , footer {
+
+    background-color: blueviolet;
+}
+main {
+
+    background-color: 	#20B2AA;
+}
 div {
     color: blue;
+    font-size: 20px;
+    font-weight: bold;
 }
